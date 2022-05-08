@@ -28,3 +28,6 @@
 7.  exercise07：Python代码规范和命令行
 8.  exercise08：Python正则表达式
 
+#### 作者
+
+<img src="https://github.com/Super-XIAOTANG/PythonExercise/blob/main/IMG/%E8%B5%B5%E5%B0%8F%E6%A3%A0%40Super_XIAOTANG.jpg" width=450 height=450/>
